@@ -1,0 +1,4 @@
+hardware_id,brand,model_name,device_type,price_gbp,channels,standalone_mode,standalone_os,jog_wheel_size_mm,jog_wheel_display,jog_tension_adjust,rekordbox_mac_win,serato_mac_win,djay_pro_mac_win,traktor_support,ios_support,android_support,dedicated_stems,stems_fx_control,master_outputs,booth_output,dual_usb,power_type,weight_kg
+alphatheta-ddj-grv6,AlphaTheta,DDJ-GRV6,Controller,759,4,FALSE,N/A,206,FALSE,FALSE,TRUE,Pro,TRUE,None,TRUE,TRUE,TRUE,TRUE,"XLR, RCA",TRUE,TRUE,USB-C Bus,4.6
+pioneer-ddj-flx4,Pioneer DJ,DDJ-FLX4,Controller,279,2,FALSE,N/A,111,FALSE,FALSE,TRUE,Lite,TRUE,None,TRUE,TRUE,TRUE,FALSE,RCA,FALSE,FALSE,USB-C Bus,2.1
+denon-prime-4-plus,Denon DJ,PRIME 4+,Standalone,1999,4,TRUE,Engine OS,152,TRUE,TRUE,FALSE,Pro,Engine OS,VirtualDJ,TRUE,FALSE,TRUE,FALSE,"XLR, RCA",TRUE,TRUE,External Mains,9.7

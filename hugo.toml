@@ -1,0 +1,8 @@
+baseURL = 'https://djhub.me/'
+languageCode = 'en-us'
+title = 'DJ Hub | Gear Specs & Compatibility Matrix'
+theme = 'ananke'
+
+[params]
+  description = "The definitive hardware compatibility and tech specs database for DJs."
+  mainSections = ['posts']
