@@ -6,36 +6,23 @@ slug: "alphatheta-ddj-grv6"
 description: "Is the AlphaTheta DDJ-GRV6 compatible with your DJ software? Full hardware specs, stem controls, and outputs."
 ---
 
-# AlphaTheta DDJ-GRV6 Compatibility & Tech Specs
+# AlphaTheta DDJ-GRV6 Specs & Compatibility
 
-The **AlphaTheta DDJ-GRV6** is a 4-channel controller priced at approximately **£759**. 
+The **AlphaTheta DDJ-GRV6** is a 4-channel DJ setup built for performance.
 
----
-
-## At a Glance Specs
-* **Device Type:** Controller
-* **Mixer Channels:** 4
+## Hardware Overview
+* **Brand:** AlphaTheta
+* **Model:** DDJ-GRV6
+* **Channels:** 4
 * **Jog Wheel Size:** 206mm
-* **Master Outputs:** XLR, RCA
-* **Weight:** 4.6 kg
-
----
+* **Standalone Mode:** False
+* **XLR Outputs:** True
 
 ## Software Support Matrix
-* **rekordbox (Mac/Win):** ✅ Native Support
-* **Serato DJ:** ✅ Pro
-* **djay Pro:** ✅ Native Support
-* **iOS / iPadOS:** ✅ Compatible
-* **Android:** ✅ Compatible
+* **rekordbox:** True
+* **Serato DJ:** False
+* **djay Pro:** True
+* **Dedicated Stem Controls:** True
 
----
-
-## Jog Wheel & Hardware Analysis
+## Jog Wheel Analysis
 Featuring full club-sized 206mm jog wheels, the **AlphaTheta DDJ-GRV6** mimics the exact platter feel of professional CDJ-3000 setups, making it ideal for tight beatmatching and tech house transitions.
-
----
-
-## Stems & Advanced Features
-* **Dedicated Stem Controls:** Yes
-* **Stem FX Control:** Yes
-* **Dual USB (B2B Handovers):** Yes

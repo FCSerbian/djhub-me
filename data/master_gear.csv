@@ -1,15 +1,100 @@
-hardware_id,brand,model_name,device_type,price_gbp,channels,standalone_mode,standalone_os,jog_wheel_size_mm,jog_wheel_display,jog_tension_adjust,rekordbox_mac_win,serato_mac_win,djay_pro_mac_win,traktor_support,ios_support,android_support,dedicated_stems,stems_fx_control,master_outputs,booth_output,dual_usb,power_type,weight_kg
-alphatheta-ddj-grv6,AlphaTheta,DDJ-GRV6,Controller,759,4,FALSE,N/A,206,FALSE,FALSE,TRUE,Pro,TRUE,None,TRUE,TRUE,TRUE,TRUE,"XLR, RCA",TRUE,TRUE,USB-C Bus,4.6
-pioneer-ddj-flx4,Pioneer DJ,DDJ-FLX4,Controller,279,2,FALSE,N/A,111,FALSE,FALSE,TRUE,Lite,TRUE,None,TRUE,TRUE,TRUE,FALSE,RCA,FALSE,FALSE,USB-C Bus,2.1
-denon-prime-4-plus,Denon DJ,PRIME 4+,Standalone,1999,4,TRUE,Engine OS,152,TRUE,TRUE,FALSE,Pro,Engine OS,VirtualDJ,TRUE,FALSE,TRUE,FALSE,"XLR, RCA",TRUE,TRUE,External Mains,9.7
-hardware_id,brand,model_name,jog_wheel_size_mm,channels,rekordbox_support,serato_support,djay_support,standalone_mode,stem_controls,xlr_outputs
-pioneer-ddj-1000,Pioneer DJ,DDJ-1000,206,4,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
-pioneer-ddj-rev7,Pioneer DJ,DDJ-REV7,175,2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
-pioneer-ddj-flx6-gt,Pioneer DJ,DDJ-FLX6-GT,206,4,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
-pioneer-ddj-200,Pioneer DJ,DDJ-200,111,2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-alphatheta-omnia-st8,AlphaTheta,OMNIS-DUO,110,2,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
-denon-prime-2,Denon DJ,PRIME 2,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
-denon-sc-live-4,Denon DJ,SC LIVE 4,152,4,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
-denon-sc-live-2,Denon DJ,SC LIVE 2,152,2,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
-denon-mc7000,Denon DJ,MC7000,150,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
-pioneer-xdj-xz,Pioneer DJ,XDJ-XZ,206,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+hardware_id,brand,model_name,device_type,jog_wheel_size_mm,channels,rekordbox_support,serato_support,djay_support,standalone_mode,stem_controls,xlr_outputs
+alphatheta-ddj-flx2,AlphaTheta,DDJ-FLX2,Compact Controller,90,2,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+alphatheta-ddj-grv6,AlphaTheta,DDJ-GRV6,DJ Controller,206,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+alphatheta-omnis-duo,AlphaTheta,OMNIS-DUO,Standalone Controller,110,2,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+pioneer-ddj-200,Pioneer DJ,DDJ-200,Smart Controller,111,2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-400,Pioneer DJ,DDJ-400,DJ Controller,111,2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-flx4,Pioneer DJ,DDJ-FLX4,DJ Controller,111,2,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-flx6,Pioneer DJ,DDJ-FLX6,DJ Controller,206,4,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-flx6-gt,Pioneer DJ,DDJ-FLX6-GT,DJ Controller,206,4,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-flx10,Pioneer DJ,DDJ-FLX10,Club Controller,206,4,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+pioneer-ddj-1000,Pioneer DJ,DDJ-1000,DJ Controller,206,4,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+pioneer-ddj-1000srt,Pioneer DJ,DDJ-1000SRT,DJ Controller,206,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+pioneer-ddj-rev1,Pioneer DJ,DDJ-REV1,Scratch Controller,154,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+pioneer-ddj-rev7,Pioneer DJ,DDJ-REV7,Motorized Controller,175,2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+pioneer-ddj-sb3,Pioneer DJ,DDJ-SB3,DJ Controller,128,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-rb,Pioneer DJ,DDJ-RB,DJ Controller,128,2,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+pioneer-ddj-rr,Pioneer DJ,DDJ-RR,DJ Controller,132,2,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+pioneer-ddj-rx,Pioneer DJ,DDJ-RX,DJ Controller,206,4,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+pioneer-ddj-rz,Pioneer DJ,DDJ-RZ,Club Controller,206,4,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+pioneer-ddj-sz2,Pioneer DJ,DDJ-SZ2,Flagship Controller,206,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+pioneer-ddj-xp2,Pioneer DJ,DDJ-XP2,Add-on Sub-Controller,0,2,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+pioneer-xdj-rr,Pioneer DJ,XDJ-RR,Standalone System,132,2,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+pioneer-xdj-rx2,Pioneer DJ,XDJ-RX2,Standalone System,149,2,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+pioneer-xdj-rx3,Pioneer DJ,XDJ-RX3,Standalone System,153,2,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+pioneer-xdj-xz,Pioneer DJ,XDJ-XZ,Flagship All-In-One,206,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+pioneer-opus-quad,Pioneer DJ,OPUS-QUAD,Luxury Standalone,206,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+denon-prime-go,Denon DJ,PRIME GO,Portable Standalone,80,2,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+denon-prime-go-plus,Denon DJ,PRIME GO+,Battery Standalone,80,2,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+denon-prime-2,Denon DJ,PRIME 2,Standalone System,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+denon-prime-4,Denon DJ,PRIME 4,Standalone System,152,4,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+denon-prime-4-plus,Denon DJ,PRIME 4+,Flagship Standalone,152,4,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+denon-sc-live-2,Denon DJ,SC LIVE 2,Standalone System,152,2,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+denon-sc-live-4,Denon DJ,SC LIVE 4,Standalone System,152,4,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+denon-mc4000,Denon DJ,MC4000,DJ Controller,133,2,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+denon-mc7000,Denon DJ,MC7000,DJ Controller,150,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+denon-mcx8000,Denon DJ,MCX8000,Hybrid Controller,133,4,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+numark-dj2go2-touch,Numark,DJ2GO2 Touch,Pocket Controller,40,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+numark-mixtrack-pro-fx,Numark,Mixtrack Pro FX,Budget Controller,152,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+numark-mixtrack-platinum-fx,Numark,Mixtrack Platinum FX,4-Deck Controller,152,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+numark-party-mix-ii,Numark,Party Mix II,Beginner Controller,80,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+numark-party-mix-live,Numark,Party Mix Live,Speaker Controller,80,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+numark-ns4fx,Numark,NS4FX,4-Channel Controller,152,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+numark-ns7iii,Numark,NS7III,Motorized Controller,178,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+numark-nv-ii,Numark,NV II,Dual-Display Controller,127,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+numark-mixstream-pro,Numark,Mixstream Pro,Standalone System,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+numark-mixstream-pro-plus,Numark,Mixstream Pro+,Streaming Standalone,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+numark-mixstream-pro-go,Numark,Mixstream Pro Go,Battery Standalone,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+rane-one,RANE,ONE,Motorized Scratch Controller,184,2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+rane-four,RANE,FOUR,Stems Club Controller,216,4,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+rane-performer,RANE,PERFORMER,Motorized Flagship,178,4,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+rane-sl12,RANE,TWELVE MKII,Motorized DJ Control System,305,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+traktor-kontrol-s2-mk3,Native Instruments,Traktor Kontrol S2 MK3,DJ Controller,140,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+traktor-kontrol-s3,Native Instruments,Traktor Kontrol S3,4-Channel Controller,140,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+traktor-kontrol-s4-mk3,Native Instruments,Traktor Kontrol S4 MK3,Haptic Drive Controller,140,4,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+traktor-kontrol-s8,Native Instruments,Traktor Kontrol S8,Flagship Touch Screen,0,4,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+traktor-kontrol-s5,Native Instruments,Traktor Kontrol S5,Stems Controller,0,4,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+traktor-kontrol-z1,Native Instruments,Traktor Kontrol Z1,Ultra-Compact Mixer,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+traktor-kontrol-x1-mk3,Native Instruments,Traktor Kontrol X1 MK3,Modular Performance Deck,0,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+hercules-djcontrol-inpulse-200,Hercules,DJControl Inpulse 200,Learning Controller,90,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+hercules-djcontrol-inpulse-200-mk2,Hercules,DJControl Inpulse 200 MK2,Learning Controller,90,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+hercules-djcontrol-inpulse-300,Hercules,DJControl Inpulse 300,DJ Controller,150,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+hercules-djcontrol-inpulse-300-mk2,Hercules,DJControl Inpulse 300 MK2,Stems Controller,150,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+hercules-djcontrol-inpulse-500,Hercules,DJControl Inpulse 500,Performance Controller,140,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+hercules-djcontrol-mix,Hercules,DJControl Mix,Smartphone Controller,75,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+hercules-dj-starlight,Hercules,DJControl Starlight,Pocket Controller,55,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+hercules-djcontrol-t7,Hercules,DJControl Inpulse T7,Motorized Scratch Controller,178,2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+reloop-buddy,Reloop,Buddy,Compact Controller,100,2,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+reloop-ready,Reloop,Ready,Laptop-Top Controller,100,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+reloop-mixon-4,Reloop,Mixon 4,Hybrid Controller,155,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+reloop-mixon-8-pro,Reloop,Mixon 8 Pro,Multi-Platform Controller,150,4,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+reloop-touch,Reloop,Touch,7-Inch Touchscreen Controller,155,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+reloop-beatpad-2,Reloop,Beatpad 2,Cross-Platform Controller,155,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+roland-dj-202,Roland,DJ-202,Drum Machine Controller,128,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+roland-dj-505,Roland,DJ-505,Performance Controller,140,2,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+roland-dj-707m,Roland,DJ-707M,Mobile DJ Controller,130,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+pioneer-cdj-2000nxs2,Pioneer DJ,CDJ-2000NXS2,Club Standard Player,206,1,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+pioneer-cdj-3000,Pioneer DJ,CDJ-3000,Flagship Multi-Player,206,1,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+pioneer-xdj-1000mk2,Pioneer DJ,XDJ-1000MK2,Touchscreen Player,206,1,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+pioneer-xdj-700,Pioneer DJ,XDJ-700,Compact Digital Player,138,1,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+denon-sc6000-prime,Denon DJ,SC6000 PRIME,Flagship Engine Player,203,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+denon-sc6000m-prime,Denon DJ,SC6000M PRIME,Motorized Engine Player,216,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+denon-lc6000-prime,Denon DJ,LC6000 PRIME,Performance Expansion Controller,203,1,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-sb2,Pioneer DJ,DDJ-SB2,Entry Controller,128,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+pioneer-ddj-sr2,Pioneer DJ,DDJ-SR2,Portable Controller,132,2,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+pioneer-ddj-sx3,Pioneer DJ,DDJ-SX3,Pro Controller,153,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+pioneer-ddj-wego4,Pioneer DJ,DDJ-WeGO4,Compact Smart Controller,95,2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+numark-mixtrack-3,Numark,Mixtrack 3,Budget Controller,130,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+numark-mixtrack-pro-3,Numark,Mixtrack Pro 3,DJ Controller,130,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+numark-n4,Numark,N4,4-Channel Hybrid Controller,130,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+numark-idj-pro,Numark,iDJ Pro,iPad Controller,130,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+hercules-dj-control-compact,Hercules,DJControl Compact,Ultra-Mobile Controller,45,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+hercules-djconsole-rMX2,Hercules,DJConsole RMX2,Mobile Controller,120,2,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+behringer-cmd-studio-4a,Behringer,CMD Studio 4A,4-Deck Controller,150,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+gemini-g4v,Gemini,G4V,4-Channel Controller,140,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gemini-sdj-4000,Gemini,SDJ-4000,Standalone System,150,4,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+mixars-primo,Mixars,PRIMO,Serato Controller,150,2,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+audient-evo-control,Audient,EVO SP8,Studio Expansion Unit,0,8,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+akamai-lpd8,Akai Professional,LPD8 MK2,Wireless Pad Controller,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+akai-amx,Akai Professional,AMX,Mixing Surface for Serato,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+akai-afx,Akai Professional,AFX,FX Controller for Serato,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE

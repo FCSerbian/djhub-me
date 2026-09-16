@@ -6,36 +6,23 @@ slug: "denon-prime-4-plus"
 description: "Is the Denon DJ PRIME 4+ compatible with your DJ software? Full hardware specs, stem controls, and outputs."
 ---
 
-# Denon DJ PRIME 4+ Compatibility & Tech Specs
+# Denon DJ PRIME 4+ Specs & Compatibility
 
-The **Denon DJ PRIME 4+** is a 4-channel standalone priced at approximately **£1999**. 
+The **Denon DJ PRIME 4+** is a 4-channel DJ setup built for performance.
 
----
-
-## At a Glance Specs
-* **Device Type:** Standalone
-* **Mixer Channels:** 4
+## Hardware Overview
+* **Brand:** Denon DJ
+* **Model:** PRIME 4+
+* **Channels:** 4
 * **Jog Wheel Size:** 152mm
-* **Master Outputs:** XLR, RCA
-* **Weight:** 9.7 kg
-
----
+* **Standalone Mode:** True
+* **XLR Outputs:** True
 
 ## Software Support Matrix
-* **rekordbox (Mac/Win):** ❌ No Native Support
-* **Serato DJ:** ✅ Pro
-* **djay Pro:** ✅ Native Support
-* **iOS / iPadOS:** ✅ Compatible
-* **Android:** ❌ Not Supported
+* **rekordbox:** False
+* **Serato DJ:** True
+* **djay Pro:** False
+* **Dedicated Stem Controls:** True
 
----
-
-## Jog Wheel & Hardware Analysis
+## Jog Wheel Analysis
 Equipped with mid-sized 152mm jog wheels, the **Denon DJ PRIME 4+** offers a balanced middle ground between tactile control and gig portability.
-
----
-
-## Stems & Advanced Features
-* **Dedicated Stem Controls:** Yes
-* **Stem FX Control:** No
-* **Dual USB (B2B Handovers):** Yes

@@ -6,36 +6,23 @@ slug: "pioneer-ddj-flx4"
 description: "Is the Pioneer DJ DDJ-FLX4 compatible with your DJ software? Full hardware specs, stem controls, and outputs."
 ---
 
-# Pioneer DJ DDJ-FLX4 Compatibility & Tech Specs
+# Pioneer DJ DDJ-FLX4 Specs & Compatibility
 
-The **Pioneer DJ DDJ-FLX4** is a 2-channel controller priced at approximately **£279**. 
+The **Pioneer DJ DDJ-FLX4** is a 2-channel DJ setup built for performance.
 
----
-
-## At a Glance Specs
-* **Device Type:** Controller
-* **Mixer Channels:** 2
+## Hardware Overview
+* **Brand:** Pioneer DJ
+* **Model:** DDJ-FLX4
+* **Channels:** 2
 * **Jog Wheel Size:** 111mm
-* **Master Outputs:** RCA
-* **Weight:** 2.1 kg
-
----
+* **Standalone Mode:** False
+* **XLR Outputs:** False
 
 ## Software Support Matrix
-* **rekordbox (Mac/Win):** ✅ Native Support
-* **Serato DJ:** ✅ Lite
-* **djay Pro:** ✅ Native Support
-* **iOS / iPadOS:** ✅ Compatible
-* **Android:** ✅ Compatible
+* **rekordbox:** True
+* **Serato DJ:** True
+* **djay Pro:** True
+* **Dedicated Stem Controls:** False
 
----
-
-## Jog Wheel & Hardware Analysis
+## Jog Wheel Analysis
 With compact 111mm jog wheels, the **Pioneer DJ DDJ-FLX4** prioritizes ultimate portability over full-scale platter feel.
-
----
-
-## Stems & Advanced Features
-* **Dedicated Stem Controls:** Yes
-* **Stem FX Control:** No
-* **Dual USB (B2B Handovers):** No
