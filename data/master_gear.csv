@@ -2,3 +2,14 @@ hardware_id,brand,model_name,device_type,price_gbp,channels,standalone_mode,stan
 alphatheta-ddj-grv6,AlphaTheta,DDJ-GRV6,Controller,759,4,FALSE,N/A,206,FALSE,FALSE,TRUE,Pro,TRUE,None,TRUE,TRUE,TRUE,TRUE,"XLR, RCA",TRUE,TRUE,USB-C Bus,4.6
 pioneer-ddj-flx4,Pioneer DJ,DDJ-FLX4,Controller,279,2,FALSE,N/A,111,FALSE,FALSE,TRUE,Lite,TRUE,None,TRUE,TRUE,TRUE,FALSE,RCA,FALSE,FALSE,USB-C Bus,2.1
 denon-prime-4-plus,Denon DJ,PRIME 4+,Standalone,1999,4,TRUE,Engine OS,152,TRUE,TRUE,FALSE,Pro,Engine OS,VirtualDJ,TRUE,FALSE,TRUE,FALSE,"XLR, RCA",TRUE,TRUE,External Mains,9.7
+hardware_id,brand,model_name,jog_wheel_size_mm,channels,rekordbox_support,serato_support,djay_support,standalone_mode,stem_controls,xlr_outputs
+pioneer-ddj-1000,Pioneer DJ,DDJ-1000,206,4,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+pioneer-ddj-rev7,Pioneer DJ,DDJ-REV7,175,2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+pioneer-ddj-flx6-gt,Pioneer DJ,DDJ-FLX6-GT,206,4,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+pioneer-ddj-200,Pioneer DJ,DDJ-200,111,2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+alphatheta-omnia-st8,AlphaTheta,OMNIS-DUO,110,2,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+denon-prime-2,Denon DJ,PRIME 2,152,2,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+denon-sc-live-4,Denon DJ,SC LIVE 4,152,4,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+denon-sc-live-2,Denon DJ,SC LIVE 2,152,2,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+denon-mc7000,Denon DJ,MC7000,150,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+pioneer-xdj-xz,Pioneer DJ,XDJ-XZ,206,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
